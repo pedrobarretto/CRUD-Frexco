@@ -22,6 +22,7 @@ Na pasta do projeto, use:
 Volte para a pasta do projeto com o comando `cd ..`, e use:
 
 ### `cd client`
+### `yarn install`
 ### `yarn start`
 
 Acesse em seu navegador [http://localhost:3000](http://localhost:3000) e veja o resultado!
