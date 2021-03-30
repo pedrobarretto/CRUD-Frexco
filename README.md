@@ -15,6 +15,8 @@ Para iniciar o servidor do MongoDB, use o comando:
 Na pasta do projeto, use:
 
 ### `cd server`
+### `npm init -y`
+### `npm i`
 ### `node index.js`
 
 Volte para a pasta do projeto com o comando `cd ..`, e use:
