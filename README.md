@@ -4,22 +4,18 @@
 
 ## Como iniciar o server
 
-To run the MongoDB server, use the command:
+Para iniciar o servidor do MongoDB, use o comando:
 
 ### `mongod`
 
-In the project directory, you can run:
+Na pasta do projeto, use:
 
 ### `cd server`
 ### `node index.js`
 
-Return to the projetc directory using `cd ..`, and run:
+Volte para a pasta do projeto `cd ..`, e use:
 
 ### `cd client`
 ### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Acesse em seu navegador [http://localhost:3000](http://localhost:3000) e veja o resultado!
