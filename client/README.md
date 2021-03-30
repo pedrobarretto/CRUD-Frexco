@@ -1,5 +1,7 @@
 # CRUD Frexco
 
+![logo frexco](https://frexco.com.br/wp-content/uploads/2020/04/logo-frexco-slogan.png)
+
 ## Como iniciar o server
 
 To run the MongoDB server, use the command:
