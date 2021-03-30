@@ -13,7 +13,7 @@ Na pasta do projeto, use:
 ### `cd server`
 ### `node index.js`
 
-Volte para a pasta do projeto `cd ..`, e use:
+Volte para a pasta do projeto com o comando `cd ..`, e use:
 
 ### `cd client`
 ### `yarn start`
