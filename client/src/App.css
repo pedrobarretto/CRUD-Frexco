@@ -1,0 +1,51 @@
+body {
+  background-color: #F4F4F9;
+}
+
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+  margin-bottom: 20px;
+}
+
+p {
+  margin: 0.3rem;
+  border: 1px solid black;
+  padding: 5px;
+  border-radius:8px;
+  padding: 0.5rem;
+}
+
+.products {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: start;
+}
+
+.show section {
+  display: flex;
+  flex-direction: row;
+}
+
+.App .btn-edit, .btn-add {
+  margin-right: 10px;
+}
+
+.App .btn-add {
+  float: right;
+}
+
+@media screen and (max-width: 600px) {
+  .products {
+    flex-direction: column;
+  }
+
+  .App .btn-add {
+    float: initial
+  }
+}
