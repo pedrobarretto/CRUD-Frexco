@@ -2,6 +2,10 @@
 
 ![logo frexco](https://frexco.com.br/wp-content/uploads/2020/04/logo-frexco-slogan.png)
 
+## Projeto:
+
+`git clone https://github.com/pedrobarretto/CRUD-Frexco.git`
+
 ## Como iniciar o server
 
 Para iniciar o servidor do MongoDB, use o comando:
